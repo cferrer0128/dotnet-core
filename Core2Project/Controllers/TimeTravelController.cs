@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Core2Project.Controllers
 {
-    [Route("v1/")]
+    [Route("api/")]
     [ApiController]
     public class TimeTravelController : ControllerBase
     {
